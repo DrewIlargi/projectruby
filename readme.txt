@@ -144,3 +144,5 @@ En el index, en el boton agregamos dos propiedades:
 	data-controller="toast"
 
 	data-action="click->toast/notify"
+
+Cambios Drew
